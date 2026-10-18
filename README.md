@@ -22,7 +22,6 @@ to answer early.
 
 - `numerators` — tensor<N x L x u64>
 - `denominators` — tensor<N x L x u64>
-- `q` — tensor<L x u64>
 - returns `accumulator` — tensor<N x L x u64>
 
 ## Generated, and not yours
